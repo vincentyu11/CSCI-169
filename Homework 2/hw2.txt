@@ -1,0 +1,1 @@
+(10 points)  Translate the C++ program here:  http://math.scu.edu/~linnell/169resources/main.cpp (Links to an external site.)  to Python (Quicksort)
