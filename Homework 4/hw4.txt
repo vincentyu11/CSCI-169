@@ -1,0 +1,11 @@
+1. (5 points)  Translate this C++ program to Java (Quicksort):  http://math.scu.edu/~linnell/cs169s19/hw/hw2/main.cpp
+
+2. (10 points)  In this problem, you will explore inheritance.  Implement the classes Food, Fruit, Orange, Apple, Seafood, Shrimp, and Prawn as represented in the class diagram here:  http://math.scu.edu/~linnell/169resources/classDiag.pdf
+
+3. (5 points)  We started on a BinarySearch Class in class on Monday (Code is posted under Monday’s folder in Files->Notes).  In this problem you will make it “more” object-oriented in the following ways:
+-You will change its name to SortedList
+-You will make a constructor that takes no arguments to be more traditional and initialize the member fields to dummy values.
+-You will add a constructor that takes in an initialized array and a size
+-You will add an insert function that adds a value to the list and maintains its sorted-ness
+-You will add a quicksort function (feel free to use what you wrote #1).
+-You will make updates as necessary to the main function so that it still runs and tests your code.
